@@ -51,7 +51,7 @@ section {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(/IMGS/2.png) no-repeat;
+  background: url(/IMGS/hero.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
