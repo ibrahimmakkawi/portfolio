@@ -141,6 +141,7 @@ section {
   text-align: center;
 }
 .info {
+  text-align: center;
 }
 .info h3 {
   color: var(--purple);
